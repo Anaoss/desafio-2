@@ -1,0 +1,26 @@
+body { background-color: rgb(50, 163, 120);
+   
+    color: yellow;
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    text-align: center;
+
+}
+
+section img { border: 10px solid rgb(252, 251, 250);
+
+    margin: 5px 5px;
+
+    text-align: center;
+
+    width: auto;
+
+    height: 150px;
+
+    }
+
+    section {  text-align: center;
+
+
+    }

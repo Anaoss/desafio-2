@@ -1,0 +1,48 @@
+p { color: rgb(80, 80, 158);
+
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    font-size: 95%;}
+
+#imageneslogo { text-align: center;}
+#imageneslogo img { width: 250px;
+                    height: 250px;
+                    display: inline-block;
+                    text-align: center;
+}
+
+
+h2 {  color: rgb(207, 64, 188);
+      text-align: center;
+      font-size: 200%;
+    }
+
+h3 {  color: rgb(207, 64, 188);
+      text-align: left;}
+
+#imagenespop { text-align: right;}
+#imagenespop img { width: 450px;
+    height: 200px;
+    display: inline-block;
+    text-align: right;
+    float: right;}
+
+#imagenescaribe { text-align: left;}
+#imagenescaribe img { width: 450px;
+    height: 200px;
+    display: inline-block;
+    text-align: left;
+    float: left;}
+
+#imagenlodge img {
+    text-align: right;
+    width: 500px;
+    height: 250px;
+    display: inline-block;
+    text-align: right;
+    float: right;}
+
+#imagenemeyeme img{ 
+    width: 100vw;
+    height: 100vh;
+}

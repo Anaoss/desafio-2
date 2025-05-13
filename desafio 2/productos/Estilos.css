@@ -1,0 +1,137 @@
+body {  background-color:rgb(38, 50, 56);
+    
+  }
+
+h1 { color: rgb(105, 121, 149);
+
+    background-color: aliceblue;
+
+     text-align: center;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    font-size: 300%;
+
+    }
+
+p { color:rgb(200, 201, 201);
+
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+
+    font-size: 14px;
+
+
+}
+
+h2 { font-family: Arial, Gadget , sans-serif;
+
+    font-style: italic;
+
+    font-size: 23px;
+
+    font-weight:900;
+
+    }
+
+h2 { font-family: Arial, Gadget , sans-serif;
+
+    font-style: italic;
+
+    font-size: 23px;
+
+    font-weight:900;
+    
+}
+
+h2 { font-family: Arial, Gadget , sans-serif;
+
+    font-style: italic;
+
+    font-size: 23px;
+
+    font-weight:900;
+
+   
+}
+
+h2 { font-family: Arial, Gadget , sans-serif;
+
+    font-style: italic;
+
+    font-size: 23px;
+
+    font-weight: 900;
+
+    text-transform: uppercase;
+
+     
+
+}
+
+h2 { font-family: Arial, Gadget , sans-serif;
+
+    font-style: italic;
+
+    font-size: 23px;
+
+    font-weight: 900;
+
+    text-transform: uppercase;
+
+}
+ 
+#aspiradoras {  color:rgb(245, 214, 173)
+
+
+}
+
+#celulares { color:rgb(201, 231, 250)
+
+
+}
+
+#Consolas {   color:rgb(162, 162, 162)
+
+
+}
+
+#home-theaters { color: rgb(128, 128, 128);
+
+
+}
+
+#televisores { color: rgb(210, 194, 194);
+
+
+}
+
+span { font-size: 35px;
+    
+    font-weight: bold;
+ width: 500px;
+    height: auto;
+
+}
+
+#imagenes-aspiradoras img { border: 5px groove burlywood;
+    margin-left: 40px;
+    color:rgb(245, 214, 173)
+}
+
+#imagenes-celulares img { border: 5px groove rgb(201, 231, 250);
+    margin-left: 40px;
+}
+
+#imagenes-consolas img { border: 5px groove rgb(162, 162, 162);
+    margin-left: 40px;
+}
+
+#imagenes-home img { border: 5px groove rgb(128, 128, 128);
+    margin-left: 40px;
+}
+
+#imagenes-televisores img { border: 5px groove rgb(210, 194, 194);
+    margin-left: 40px;
+} 
+
+
