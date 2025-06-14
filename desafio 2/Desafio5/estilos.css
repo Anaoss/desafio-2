@@ -1,0 +1,108 @@
+body {
+  font-family: sans-serif;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+  color: #967159;
+}
+
+header img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+nav {
+  background-color: white;
+  text-align: left;
+  padding: 10px 0;
+  
+}
+
+nav a {
+  margin: 0 10px;
+  color: #d35400;
+  text-decoration-color: #d35400;
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
+  font-weight: bold;
+}
+
+
+main {
+  padding: 20px;
+}
+
+h2 {
+  color: #5c2c0d;
+  font-size: 24px;
+}
+
+.bloque {
+  background-color: #fff;
+  margin: 10px 0;
+  padding: 10px 20px;
+  
+}
+
+
+.bloque h3 {
+  background-color:#644937d9;;
+  color:  #c6a690;
+  padding: 5px 10px;
+  margin: -10px -20px 10px -20px;
+}
+
+
+.bloque ul,
+.bloque ol {
+  margin-left: 20px;
+}
+
+
+.bloque a {
+  color:  #ff6600;
+  text-decoration: none;
+}
+
+.especial h3 {
+  background-color: #644937d9;
+   color: rgb(163, 163, 49);
+}
+
+strong {
+  font-weight: bold;
+}
+
+footer {
+  height: 100px;
+  background-color: black;
+  color: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+}
+.destacado { color: #3d1d08; 
+    font-weight: bold;
+} 
+
+.nuevo {
+  color: #3d1d08;
+  
+}
+a.proximamente {
+  color: #3d1d08;
+}
+.bloque li a.nacional {   /* probe varias opciones para poder cambiar el color, aún con especificidad y no pude */
+
+  color: #00bfff; 
+  font-weight: bold;
+}
+.prosegur {
+  color: #ff6600;
+  font-weight:  bold;
+  text-decoration: underline;
+
+}
